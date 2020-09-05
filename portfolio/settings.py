@@ -134,8 +134,8 @@ STATIC_ROOT=os.path.join(BASE_DIR,'staticfiles')
 DATA = {
     "NAME":"Siddhant Maurya",
     "ABOUT_ME": "Jai Hind Everybody, My name is Siddhant Maurya.I a'm 21 years old.I a'm from city Ayodhya of state Uttar Pradesh.Currently I am pursing btech with Information Technology branch"
-            "from reputed  Ajay Kumar Garg Engineering College.I did my Class 12 from S.R. senior secondry  School with scoring of 76.4% percentage.And "
-            "I did my  class 10 from Tiny Tots Senior Secondry School with 9.8 CGPA.I am an average student."
+            "from reputed  Ajay Kumar Garg Engineering College.I did my Class 12 from S.R. senior secondry  School with scoring of 81.4% percentage.And "
+            "I did my  class 10 from Tiny Tots Senior Secondry School with 10 CGPA.I am an average student."
             "I worked on various Technology.I learned HTML,CSS and JAVASCRIPT for developing webpage.Also worked on"
             "server side scripting langauge that is Django and using MONGODB as database."
             "Made many projects related to web developing.Also work on Android App Development Technology."
